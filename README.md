@@ -1,4 +1,4 @@
-# Hi 👋 I'm Jack
+# Hi 👋 I'm Jack Niu
 
 Software Engineer with a focus on **Applied AI**, **LLM-based systems**, and **engineering-driven ML solutions**.  
 Currently based in the UK.
@@ -54,7 +54,7 @@ FastAPI · Streamlit · Docker · GitHub Actions
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iVegetable&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iVegetable&show_icons=true&v=1" />
 </p>
 
 ---
