@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Jack
 
-<!--
-**iVegetable/iVegetable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Software Engineer | 🤖 AI & Applied ML  
+📍 UK | 💡 Interested in practical AI systems, tooling & infra
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I'm working on
+- Applied machine learning & LLM-based tools
+- AI automation for real-world tasks
+- Clean, reproducible engineering projects
+
+---
+
+## 🧠 Featured Projects
+- 🔍 LLM-powered document QA system
+- 🎙️ Speech-to-text & summarization pipeline
+- 🧪 ML experiments & reproducible notebooks
+
+---
+
+## 🛠️ Tech Stack
+- Python / PyTorch / Transformers
+- OpenAI / Hugging Face
+- FastAPI / Streamlit
+- Docker / GitHub Actions
+
+---
+
+## 📫 Contact
+- GitHub: @iVegetable
+- Email: jacknutrient@gmail.com
