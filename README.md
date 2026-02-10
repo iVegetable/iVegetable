@@ -4,6 +4,9 @@ Software Engineer with a focus on **Applied AI**, **LLM-based systems**, and **e
 Currently based in the UK.
 
 ---
+<p align="center">
+  <img src="./banner.png" width="100%" />
+</p>
 
 ## 🔍 About Me
 
@@ -41,21 +44,13 @@ AI-powered tool for rewriting resumes and GitHub READMEs with different tones an
 ## 🛠️ Tech Stack
 
 **Languages**  
-Python · TypeScript · C/C++
+Python · TypeScript · C/C++ · JAVA
 
 **AI / ML**  
 PyTorch · Hugging Face · OpenAI API · Embeddings · RAG
 
 **Backend / Tools**  
 FastAPI · Streamlit · Docker · GitHub Actions
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iVegetable&show_icons=true&v=1" />
-</p>
 
 ---
 
